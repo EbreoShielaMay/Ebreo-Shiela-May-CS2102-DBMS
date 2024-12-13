@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/EbreoShielaMay/my/blob/main/D%E2%80%99Bookstore.png" alt="Logo" width="300"/>
+<img src="https://github.com/EbreoShielaMay/my/blob/main/image.png" alt="Logo" width="400"/>
 </div>
 
 ---
