@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/EbreoShielaMay/my/blob/main/D%E2%80%99Bookstore.png" alt="Logo" width="300"/>
+</div>
+---
 # 📚 D'Bookstore
 
 Welcome to **D'Bookstore**! This is a Java-based console application designed for book lovers. It allows users to browse, purchase books, and manage their wallet balance with the power of MySQL database integration.
