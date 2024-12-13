@@ -39,7 +39,7 @@ Welcome to **D'Bookstore**! This is a Java-based console application designed fo
 ## 🚀 Getting Started
 1. **📥 Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/d-bookstore.git
+   git clone https://github.com/EbreoShielaMay/Ebreo-Shiela-May-CS2102-DBMS.git
    ```
 2. **🔧 Set Up MySQL**:
    - Import the database schema:
