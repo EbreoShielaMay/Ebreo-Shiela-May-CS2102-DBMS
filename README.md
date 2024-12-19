@@ -39,9 +39,9 @@ Welcome to **D'Bookstore**! This is a Java-based console application designed fo
 📷 Check out how it works: 
 
 <div align="center">
-  <a href="" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/EbreoShielaMay/Ebreo-Shiela-May-CS2102-DBMS/tree/main/outputsDBMS" target="_blank" style="text-decoration:none;">
     <button style="background-color:#007BFF; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">
-      D'Bookstore Outputs
+     :sparkles: Outputs
     </button>
   </a>
 </div>
