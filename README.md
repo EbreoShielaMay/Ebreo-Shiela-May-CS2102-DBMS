@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://github.com/EbreoShielaMay/my/blob/main/image.png" alt="Logo" width="400"/>
+<img src="https://github.com/EbreoShielaMay/just-repo/blob/main/image.png" alt="Logo" width="400"/>
 </div>
-
 ---
 
 # 📚 D'Bookstore
@@ -46,8 +45,6 @@ Welcome to **D'Bookstore**! This is a Java-based console application designed fo
   </a>
 </div>
 
-
----
 ---
 
 ## 🚀 Getting Started
