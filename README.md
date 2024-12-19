@@ -36,7 +36,7 @@ Welcome to **D'Bookstore**! This is a Java-based console application designed fo
    - Update book stock (for physical books).
    - Save orders and generate receipts.
 
-📷 Check out how it works: 
+📷 Check out how the outputs: 
 
 <div align="center">
   <a href="https://github.com/EbreoShielaMay/Ebreo-Shiela-May-CS2102-DBMS/tree/main/outputsDBMS" target="_blank" style="text-decoration:none;">
