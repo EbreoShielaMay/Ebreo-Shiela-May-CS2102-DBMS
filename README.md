@@ -38,8 +38,16 @@ Welcome to **D'Bookstore**! This is a Java-based console application designed fo
 
 📷 Check out how it works: 
 
-![System Flow Diagram](https://via.placeholder.com/600x400.png?text=System+Flow+Diagram)
+<div align="center">
+  <a href="" target="_blank" style="text-decoration:none;">
+    <button style="background-color:#007BFF; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">
+      D'Bookstore Outputs
+    </button>
+  </a>
+</div>
 
+
+---
 ---
 
 ## 🚀 Getting Started
